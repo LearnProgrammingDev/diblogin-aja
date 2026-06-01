@@ -1,6 +1,7 @@
 ---
 title: Roadmap Belajar AI dari Nol — Mulai dari Mana?
 pubDatetime: 2026-04-17T08:00:00Z
+featured: true
 description: Mau belajar AI tapi tidak tahu mulai dari mana? Ini roadmap yang realistis — tanpa matematika berat di awal, tanpa harus jadi data scientist dulu.
 tags:
   - ai

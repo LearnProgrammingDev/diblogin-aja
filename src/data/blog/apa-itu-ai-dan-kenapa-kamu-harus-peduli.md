@@ -1,6 +1,7 @@
 ---
 title: Apa Itu AI dan Kenapa Kamu Harus Peduli Sekarang
 pubDatetime: 2026-04-01T08:00:00Z
+featured: true
 description: Penjelasan simpel soal Artificial Intelligence tanpa jargon yang bikin pusing — dan kenapa ini relevan buat kehidupan kamu sehari-hari.
 tags:
   - ai

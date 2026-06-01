@@ -20,7 +20,7 @@ export default config({
         description: fields.text({ label: 'Description', multiline: true }),
         tags: fields.array(fields.text({ label: 'Tag' }), { label: 'Tags' }),
         draft: fields.checkbox({ label: 'Draft', defaultValue: false }),
-        content: fields.mdx({ label: 'Content' }),
+        content: fields.markdoc({ label: 'Content' }),
       },
     }),
   },
