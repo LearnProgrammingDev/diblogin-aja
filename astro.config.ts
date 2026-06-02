@@ -4,12 +4,13 @@ import tailwindcss from "@tailwindcss/vite";
 import react from "@astrojs/react";
 import keystatic from "@keystatic/astro";
 import vercel from "@astrojs/vercel";
+import mdx from "@astrojs/mdx";
 
 export default defineConfig({
   site: "https://diblogin-aja.vercel.app",
   output: "server",
   adapter: vercel(),
-  integrations: [sitemap(), react(), keystatic()],
+  integrations: [sitemap(), react(), keystatic(), mdx()],
   vite: {
     plugins: [tailwindcss()],
   },

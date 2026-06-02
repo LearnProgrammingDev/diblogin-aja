@@ -1,6 +1,6 @@
 ---
 title: cara vibe coding yang benar dan terstruktur
-pubDatetime: 2026-04-19
+pubDatetime: 2026-04-19T08:00:00Z
 featured: true
 description: cara vibe coding yang benar dan berguna
 tags:
